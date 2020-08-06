@@ -1,9 +1,11 @@
 module.exports = {
   title1: `DAT Sem3`,
-  title2: `DAT Sem3 - Spring 2020`,
+  title2: `DAT Sem3 - Fall 2020`,
   titleShort: `Dat3`,
-  idLocalStorage: "fullstackspring2020",
-  classes: [{ value: 'a', label: 'A-class', backgroundColor: "#295683" }],
+  idLocalStorage: "fullstackFall2020",
+  classes: [
+    { value: 'a', label: 'A-class', backgroundColor: "#295683" },
+    { value: 'b', label: 'B-class', backgroundColor: "darkgreen" }],
   showWeekInfoForEachDayInWeek: false,
   timeEdit: "https://cloud.timeedit.net/cphbusiness/web/student",
   topMenu: [

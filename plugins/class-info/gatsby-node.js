@@ -13,6 +13,8 @@ https://www.wildsmithstudio.com/blog/using-remote-resources-with-gatsby/
 const API_URI =
   "https://spreadsheets.google.com/feeds/list/1Z1t_J4JB1blUXBaXzbraXsdORGm4mba0U96Ip6lclVE/od6/public/values?alt=json";
 
+ 
+
 function isValidDKDate(dateStr) {
   try {
     if (dateStr === null) {

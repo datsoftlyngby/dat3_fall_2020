@@ -12,7 +12,7 @@
     "emojione": "^4.0.0",
     "emotion": "^9.2.12",
     "emotion-server": "^9.2.12",
-    "gatsby": "^2.18.25",
+    "gatsby": "^2.24.31",
     "gatsby-plugin-catch-links": "^2.1.19",
     "gatsby-plugin-emotion": "^2.0.6",
     "gatsby-plugin-manifest": "^2.2.31",
@@ -49,6 +49,6 @@
     "typography-theme-ocean-beach": "^0.16.18"
   },
   "devDependencies": {
-    "gatsby-cli": "^2.8.15"
+    "gatsby-cli": "^2.12.76"
   }
 }
