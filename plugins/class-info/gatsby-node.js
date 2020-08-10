@@ -8,12 +8,10 @@ https://www.wildsmithstudio.com/blog/using-remote-resources-with-gatsby/
 
 ///https://coderwall.com/p/duapqq/use-a-google-spreadsheet-as-your-json-backend
 
-// const API_URI =
-//   "https://spreadsheets.google.com/feeds/list/1gNWaa-7dJ9rU7jkcQoWbx1MNKOU3MwJMgzcdJ_J2wI8/od6/public/values?alt=json";
-const API_URI =
-  "https://spreadsheets.google.com/feeds/list/1Z1t_J4JB1blUXBaXzbraXsdORGm4mba0U96Ip6lclVE/od6/public/values?alt=json";
+// const API_URI = "https://spreadsheets.google.com/feeds/list/1gNWaa-7dJ9rU7jkcQoWbx1MNKOU3MwJMgzcdJ_J2wI8/od6/public/values?alt=json";
+const API_URI = "https://spreadsheets.google.com/feeds/list/19oPV600OeHJQvIAoPSyMJINMoTmhJAAziO0PbCEX7nI/1/public/values?alt=json"
 
- 
+
 
 function isValidDKDate(dateStr) {
   try {
@@ -61,6 +59,7 @@ exports.sourceNodes = async ({ actions }) => {
   const { createNode } = actions;
 
   const rows = await fetch(API_URI).then(r => r.json());
+  //console.log(JSON.stringify(rows, null, 2))
 
   const days = rows.feed.entry
     //.filter(e => (e.gsx$day.$t !== null))// && isValidDKDate(e.gsx$day.$t)))

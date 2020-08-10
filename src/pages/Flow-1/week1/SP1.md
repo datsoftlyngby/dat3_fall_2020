@@ -1,6 +1,6 @@
 ---
 title: "Studypoint Exercise-1"
-date: "31-01-2020"
+date: "28-08-2020"
 decorator: "SP1 (#date#)"
 isSP: true
 ---
