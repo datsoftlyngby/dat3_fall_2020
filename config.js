@@ -4,8 +4,8 @@ module.exports = {
   titleShort: `Dat3`,
   idLocalStorage: "fullstackFall2020",
   classes: [
-    { value: 'd', label: 'D-class', backgroundColor: "#295683" },
-    { value: 'e', label: 'E-class', backgroundColor: "darkgreen" }],
+    { value: 'd', label: 'D-Class', backgroundColor: "#295683" },
+    { value: 'e', label: 'E-Class', backgroundColor: "darkgreen" }],
   showWeekInfoForEachDayInWeek: false,
   timeEdit: "https://cloud.timeedit.net/cphbusiness/web/student",
   topMenu: [
