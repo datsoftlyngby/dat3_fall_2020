@@ -1,6 +1,6 @@
 const config = require('./config.js');
 module.exports = {
-  siteMetadata: {...config},
+  siteMetadata: { ...config },
   plugins: [
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,

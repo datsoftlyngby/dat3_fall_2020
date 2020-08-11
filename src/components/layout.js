@@ -17,6 +17,9 @@ import Select from "react-select";
 //   return localStorage[`${id}_selectedClass`];
 // }
 function getFromLocalStorage(id, classes) {
+  if (!localStorage[`${id}_selectedClass`]) {
+    return localStorage[`${id}_defaultSelectedClass`];
+  }
   const className = localStorage[`${id}_selectedClass`];
   const selectedClass = classes.find(class_ => class_.value === className);
   return selectedClass;
@@ -49,6 +52,18 @@ class Container extends React.Component {
     }
     //When more than one class, until a class is selecte first clas in list sets the Styles
     const defaultBackground = classes[0].backgroundColor;
+
+    if (typeof window !== "undefined") {
+      if (!localStorage[`${idLocalStorage}_defaultSelectedClass`]) {
+        localStorage[`${idLocalStorage}_defaultSelectedClass`] = classes[0].value;
+      }
+      if (!localStorage[`${idLocalStorage}_selectedClass`]) {
+        if (classes.length > 1) {
+          window.alert("Select your class in the Select Box, FIRST TIME you are using this site")
+        }
+      }
+    }
+
     selectedClass = selectedClass ? selectedClass : classes[0]
 
     let offline = false;
@@ -100,6 +115,8 @@ class Container extends React.Component {
     navigate(window.location.pathname);
     //console.log(`Option selected:`, selectedClass,window.location.pathname);
   };
+
+
 
   /*
   Find all sub-entries for this node. Include:

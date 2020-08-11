@@ -18,6 +18,9 @@ import remarkHtml from "remark-html";
 TBD Copied from Layout.js --> Refactor both versions into one 
  */
 function getFromLocalStorage(id, classes) {
+  if (!localStorage[`${id}_selectedClass`]) {
+    return localStorage[`${id}_defaultSelectedClass`];
+  }
   const className = localStorage[`${id}_selectedClass`];
   const selectedClass = classes.find(class_ => class_.value === className);
   return selectedClass;
