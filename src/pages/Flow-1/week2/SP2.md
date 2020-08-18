@@ -1,6 +1,6 @@
 ---
-title: "ADD TITLE"
-date: "07-02-2020"
+title: "Studypoint Exercise-2"
+date: "04-09-2020"
 decorator: "SP2 (#date#)"
 isSP: true
 ---
@@ -14,7 +14,7 @@ isSP: true
 
 <!--PeriodExercises Flow-1/week2 PeriodExercises-->
 
-## Part-2 Aflever besvarelser og https link på PeerGrade
+## Part-2 Aflever besvarelser
 
 Placerer dine tirs- og onsdagsbesvarelser på en side, der skal kunne tilgås via dit domænenavn vha HTTPS - og send links til iwantstudypoints@gmail.com
 
