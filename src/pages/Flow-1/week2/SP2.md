@@ -1,5 +1,5 @@
 ---
-title: "Study Point Exercises"
+title: "Studypoint Exercise-2"
 date: "04-09-2020"
 decorator: "SP2 (#date#)"
 isSP: true
