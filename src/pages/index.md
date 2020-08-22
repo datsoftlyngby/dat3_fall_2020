@@ -17,7 +17,7 @@ The course is divided up into five Periods:
 
 ## Slack Workspace
 
-[slack for 3 semester DAT](https://3semspring2020.slack.com)
+[slack for 3 semester DAT](dat3-fall-2020.slack.com)
 
 ## Teachers
 
