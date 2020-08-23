@@ -12,7 +12,7 @@ The course is divided up into five Periods:
 - 1 System Development Period (spread out over the full semester) (3 weeks)
 - 1 Semester Project Period (3 weeks)
   <!--BEGIN slides ##-->
-  [See intro slides for details](https://docs.google.com/presentation/d/14v_H3mTtu1iKenP62-FEhNcAQHwTM0UjSTv_kuX_gjI/edit?usp=sharing)
+  [See intro slides for details](https://docs.google.com/presentation/d/1caSmxaTamMNTy9ExJiyskmkFfIskdXSSVkC3TeR6XjE/edit?usp=sharing)
   <!--END slides ##-->
 
 ## Slack Workspace
