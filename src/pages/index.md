@@ -12,20 +12,21 @@ The course is divided up into five Periods:
 - 1 System Development Period (spread out over the full semester) (3 weeks)
 - 1 Semester Project Period (3 weeks)
   <!--BEGIN slides ##-->
-  [See intro slides for details](https://docs.google.com/presentation/d/14v_H3mTtu1iKenP62-FEhNcAQHwTM0UjSTv_kuX_gjI/edit?usp=sharing)
+  [See intro slides for details](https://docs.google.com/presentation/d/1caSmxaTamMNTy9ExJiyskmkFfIskdXSSVkC3TeR6XjE/edit?usp=sharing)
   <!--END slides ##-->
 
 ## Slack Workspace
 
-[slack for 3 semester DAT](https://3semspring2020.slack.com)
+[slack for 3 semester DAT](dat3-fall-2020.slack.com)
 
 ## Teachers
 
 | Teacher        | Mail                | Zoom Id                                                                                      | Snippet-file                                                                                                |
 | -------------- | ------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| Thomas Hartman | tha@cphbusiness.dk  | [https://deic.zoom.us/my/thomashartmann](https://deic.zoom.us/my/thomashartmann)             | -                                                                                                           |
+| Thomas Hartman | tha@cphbusiness.dk  | [https://cphbusiness.zoom.us/my/thomashartmann](https://cphbusiness.zoom.us/my/thomashartmann)             | -                                                                                                           |
 | Lars Mortensen | lam@cphbusiness.dk  | [https://cphbusiness.zoom.us/my/larsmortensen](https://cphbusiness.zoom.us/my/larsmortensen) | [snippet](https://docs.google.com/document/d/1s-Uczqyj0AQG1Kc2pD43M-xr9en3DvPUxRv0rX27u0I/edit?usp=sharing) |
-| Jon Bertelsen  | jobe@cphbusiness.dk | [https://cphbusiness.zoom.us/my/jonbertelsen](https://deic.zoom.us/my/jonbertelsen)          | -                                                                                                           |
+| Jon Bertelsen  | jobe@cphbusiness.dk | [https://cphbusiness.zoom.us/my/jonbertelsen](https://cphbusiness.zoom.us/my/jonbertelsen)          | -  |
+| Nikolaj Brandt Hemmeshøj  | nbh@cphbusiness.dk | [https://cphbusiness.zoom.us/my/nikolajh](https://cphbusiness.zoom.us/my/nikolajh)     | - |  
 
 ## Exam
 
