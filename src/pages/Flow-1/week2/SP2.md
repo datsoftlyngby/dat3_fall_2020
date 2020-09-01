@@ -16,5 +16,7 @@ isSP: true
 
 ## Part-2 Aflever besvarelser
 
-Placerer dine tirs- og onsdagsbesvarelser på en side, der skal kunne tilgås via dit domænenavn vha HTTPS - og send links til iwantstudypoints@gmail.com
+Placerer dine tirs- og onsdagsbesvarelser (dem der involvere kode) på en side, der skal kunne tilgås via dit domænenavn vha HTTPS - og send link til TODO
+Siden bør indeholde en hovedside der linker til de enkelte eksempler.
 
+Tilføj gerne en eller flere af de af sidste uges opgaver der involvere en database.
