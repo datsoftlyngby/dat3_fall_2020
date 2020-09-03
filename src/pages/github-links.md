@@ -5,13 +5,13 @@ headertext: "Links to github repositories, and matching documentation, used this
 
 ## Developer setup used from day-1 this semester
 
-- [docker-compose project, used locally, and on your droplet](https://github.com/Hartmannsolution/tomcat_mysql_nginx_docker.git)
-- [How to setup your local developer computer](https://docs.google.com/document/d/1RlAR3Ax-c3cpBrW2ez7NYAc8mrCJiRjAC3xdjjdi0Uc/edit?usp=sharing)
-- [How to setup your droplet](https://docs.google.com/document/d/1aGEcD9Jv_uIUgOUnpYiCCxvxnPbkeoaO7Bf7b70lAfA/edit?usp=sharing)
+- [:cd: docker-compose project, used locally, and on your droplet](https://github.com/Hartmannsolution/tomcat_mysql_nginx_docker.git)
+- [:book: How to setup your local developer computer](https://docs.google.com/document/d/1RlAR3Ax-c3cpBrW2ez7NYAc8mrCJiRjAC3xdjjdi0Uc/edit?usp=sharing)
+- [:book: How to setup your droplet](https://docs.google.com/document/d/1aGEcD9Jv_uIUgOUnpYiCCxvxnPbkeoaO7Bf7b70lAfA/edit?usp=sharing)
 
 ## Start Code for period-1+2(+3) projects that requires JPA, REST, Test, CI and CD
 
-- [Start Code](https://github.com/dat3startcode/rest-jpa-devops-startcode)
+- [:cd: Start Code](https://github.com/dat3startcode/rest-jpa-devops-startcode)
 - In period-3 you will need to clone a specific branch (not ready yet) with necessary support to secure REST-endpoints
 
 ## Start code for SPA for Flow 2
