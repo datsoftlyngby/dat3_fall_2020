@@ -1,19 +1,21 @@
 ---
 title: "Github repositories"
-headertext: "Links to github repositories used this semester"
+headertext: "Links to github repositories, and matching documentation, used this semester"
 ---
 
-#### Vagrant project referred to in the [Developer Setup](https://docs.google.com/document/d/1rZcZK6Tlhh7NFCG0aZcebr0QID_iBKjawoZ9Crccq6A/edit?usp=sharing) Document
-*Clone this project, and in a terminal in the root folder, do vagrant up, to get the Virtual Ubuntu Server* [Vagrant Repository](https://github.com/Dat3SemStartCode/vagrant-fall2019.git)
+## Developer setup used from day-1 this semester
 
-#### Start Code for Flow1+2 projects that requires JPA, REST, Test, CI and Continuos Delivery
-[Start Code](https://github.com/dat3startcode/rest-jpa-devops-startcode)
+- [docker-compose project, used locally, and on your droplet](https://github.com/Hartmannsolution/tomcat_mysql_nginx_docker.git)
+- [How to setup your local developer computer](https://docs.google.com/document/d/1RlAR3Ax-c3cpBrW2ez7NYAc8mrCJiRjAC3xdjjdi0Uc/edit?usp=sharing)
+- [How to setup your droplet](https://docs.google.com/document/d/1aGEcD9Jv_uIUgOUnpYiCCxvxnPbkeoaO7Bf7b70lAfA/edit?usp=sharing)
 
-#### Start project for SIMPLE projects that uses both JPA (ORM) and JAX-RS (REST)
-*Should mainly be used in week-1*
-Use this project instead of the NetBeans Wizards. It will provide you with the necessary dependencies in the pom-file, and the suggested skeleton code for a testable database facade 
-[JPA/REST start code](https://github.com/Dat3SemStartCode/week1-simple-jpa-rest.git)
+## Start Code for period-1+2(+3) projects that requires JPA, REST, Test, CI and CD
 
-#### Start code for SPA for Flow 2
-[Start Code SPA](https://github.com/Cphdat3sem2018f/code_simple_SPA)
+- [Start Code](https://github.com/dat3startcode/rest-jpa-devops-startcode)
+- In period-3 you will need to clone a specific branch (not ready yet) with necessary support to secure REST-endpoints
 
+## Start code for SPA for Flow 2
+
+<!--[Start Code SPA (TBD)](https://github.com/Cphdat3sem2018f/code_simple_SPA)-->
+
+[Start Code SPA (TBD)](#)
