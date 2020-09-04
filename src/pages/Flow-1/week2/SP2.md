@@ -16,7 +16,8 @@ isSP: true
 
 ## Part-2 Aflever besvarelser
 
-Placerer dine tirs- og onsdagsbesvarelser (dem der involvere kode) på en side, der skal kunne tilgås via dit domænenavn vha HTTPS - og send link til TODO
-Siden bør indeholde en hovedside der linker til de enkelte eksempler.
+Placerer dine tirs- og onsdagsbesvarelser (dem der involvere kode) på en side, der skal kunne tilgås via dit domænenavn vha HTTPS. Siden bør indeholde en hovedside der linker til de enkelte eksempler.
 
 Tilføj gerne en eller flere af de af sidste uges opgaver der involvere en database.
+
+[Tilføj dit link til siden her](https://forms.gle/Fs4dDcMgd4pZdPGB6)
