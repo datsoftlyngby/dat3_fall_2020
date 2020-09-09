@@ -7,12 +7,17 @@ headertext: |
 ## How we have designed the course.
 
 The course is divided up into five Periods:
+
   <!--BEGIN slides ##-->
-  [See intro slides for details](https://docs.google.com/presentation/d/1caSmxaTamMNTy9ExJiyskmkFfIskdXSSVkC3TeR6XjE/edit?usp=sharing)
+
+[See intro slides for details](https://docs.google.com/presentation/d/1caSmxaTamMNTy9ExJiyskmkFfIskdXSSVkC3TeR6XjE/edit?usp=sharing)
+
   <!--END slides ##-->
 
-  ## Groups
-  - [D-klassen](https://docs.google.com/spreadsheets/d/1I23KhcZTur93aqzPbHyop54MlivasyiyrhYxYx6knF0/edit?usp=sharing)
+## Groups
+
+- [D-klassen + Bornholm](https://docs.google.com/spreadsheets/d/1I23KhcZTur93aqzPbHyop54MlivasyiyrhYxYx6knF0/edit?usp=sharing)
+- [E-klassen](https://docs.google.com/spreadsheets/d/1wQBVc-hkr3Cyo5fg7niibL0mnf2-nf-y69CQPaMHDyw/edit?usp=sharing)
 
 ## Slack Workspace
 
@@ -20,12 +25,12 @@ The course is divided up into five Periods:
 
 ## Teachers
 
-| Teacher        | Mail                | Zoom Id                                                                                      | Snippet-file                                                                                                |
-| -------------- | ------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| Thomas Hartman | tha@cphbusiness.dk  | [https://cphbusiness.zoom.us/my/thomashartmann](https://cphbusiness.zoom.us/my/thomashartmann)             | -                                                                                                           |
-| Lars Mortensen | lam@cphbusiness.dk  | [https://cphbusiness.zoom.us/my/larsmortensen](https://cphbusiness.zoom.us/my/larsmortensen) | [snippet](https://docs.google.com/document/d/1s-Uczqyj0AQG1Kc2pD43M-xr9en3DvPUxRv0rX27u0I/edit?usp=sharing) |
-| Jon Bertelsen  | jobe@cphbusiness.dk | [https://cphbusiness.zoom.us/my/jonbertelsen](https://cphbusiness.zoom.us/my/jonbertelsen)          | -  |
-| Nikolaj Brandt Hemmeshøj  | nbh@cphbusiness.dk | [https://cphbusiness.zoom.us/my/nikolajh](https://cphbusiness.zoom.us/my/nikolajh)     | - |  
+| Teacher                  | Mail                | Zoom Id                                                                                        | Snippet-file                                                                                                |
+| ------------------------ | ------------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Thomas Hartman           | tha@cphbusiness.dk  | [https://cphbusiness.zoom.us/my/thomashartmann](https://cphbusiness.zoom.us/my/thomashartmann) | -                                                                                                           |
+| Lars Mortensen           | lam@cphbusiness.dk  | [https://cphbusiness.zoom.us/my/larsmortensen](https://cphbusiness.zoom.us/my/larsmortensen)   | [snippet](https://docs.google.com/document/d/1s-Uczqyj0AQG1Kc2pD43M-xr9en3DvPUxRv0rX27u0I/edit?usp=sharing) |
+| Jon Bertelsen            | jobe@cphbusiness.dk | [https://cphbusiness.zoom.us/my/jonbertelsen](https://cphbusiness.zoom.us/my/jonbertelsen)     | -                                                                                                           |
+| Nikolaj Brandt Hemmeshøj | nbh@cphbusiness.dk  | [https://cphbusiness.zoom.us/my/nikolajh](https://cphbusiness.zoom.us/my/nikolajh)             | -                                                                                                           |
 
 ## Exam
 
