@@ -20,7 +20,7 @@ isSP: true
 
 Begin building a front-end to the Movie REST API from earlier this week. Eventually we want to fetch data from the Movie API, but since we have postponed fetching api-data with javascript until Monday, the first iteration of the page only contains the outline of the user interface in pure html and css:
 
-![](movie_ui.png)
+[Screenshot](https://imgur.com/kjtElSR)
 
 Make sure to deploy via Travis and not manually.
 
