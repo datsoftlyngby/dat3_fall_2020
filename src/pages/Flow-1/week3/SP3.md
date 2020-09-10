@@ -18,6 +18,16 @@ isSP: true
 
 ### Add a JavaScript-driven frontend to your REST-API
 
+E-class:
+
 Continue with part-2 of the exercise "_REST, JPA, Test and CI with our start code_" where you implemented a small movie-application.
 Add a simple JavaScript-driven page to the project that fetches and render data from one, or more, of your REST-endpoints.
+Make sure to deploy via Travis and not manually.
+
+D-class:
+
+Begin building a front-end to the Movie REST API from earlier this week. Eventually we want to fetch data from the Movie API, but since we have postponed fetching api-data with javascript until Monday, the first iteration of the page only contains the outline of the user interface in pure html and css:
+
+![](movie_ui.png)
+
 Make sure to deploy via Travis and not manually.
