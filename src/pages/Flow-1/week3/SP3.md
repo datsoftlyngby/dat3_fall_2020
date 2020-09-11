@@ -8,7 +8,7 @@ isSP: true
 
 ## How to hand in this week
 
-Since a 50% of what we have done this week involved deployment CI, and test this is how you should hand-in
+Since  50% of what we have done this week involved deployment, CI, and test this is how you should hand-in
 
 - Code, for all exercises must be organised, and pushed to git as explained for week-1's SP1
 - For the movie exercise you must deploy your project on your droplet, PREFERABLY, done by Travis
@@ -18,7 +18,7 @@ Since a 50% of what we have done this week involved deployment CI, and test this
 - Your index.html file must include a link to your Travis status page
 - Your index.html should include a small description of how far you came (could be taken from the Readme-file)
 
-*What you hand in is: the single link to this page*
+*What you hand in is: the single link to this web-project (using yoour domain-name and https) obviously*
 
 Add your hand-in link here: https://forms.gle/4VubTU21RHtbkDdg9 
 
