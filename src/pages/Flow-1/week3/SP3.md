@@ -22,6 +22,8 @@ Since  50% of what we have done this week involved deployment, CI, and test this
 
 Add your hand-in link here: https://forms.gle/4VubTU21RHtbkDdg9 
 
+Hand-in: Before saturday 16.00
+
 _If for whatever reason you could not deploy, hand in a link to your git-repo with code for the exercises, but you ARE expected to be able to deploy code by now._
 
 ## Part-1 Complete all exercises (according to your colour level) from this week
