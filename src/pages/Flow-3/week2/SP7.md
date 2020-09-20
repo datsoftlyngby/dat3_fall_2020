@@ -1,6 +1,6 @@
 ---
 title: "SP 7 SPA with react and backend"
-date: "03-05-2020"
+date: "06-11-2020"
 decorator: "SP7 (#date#)"
 isSP: true
 ---
