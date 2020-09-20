@@ -1,7 +1,9 @@
 ---
 shortTitle: "Flow1"
+sortOrder: "1"
 title: "Intro and laying the foundation for the rest of the semester"
---- 
+---
+
 This flow will introduce most of the technologies which we are going to use and build on for the rest of the semester.
 
 Topics will include:
