@@ -1,5 +1,5 @@
 ---
-shortTitle: "week4"
+shortTitle: "26.10-30.10"
 sortOrder: "3"
 decorator: "#date# (SYS)"
 title: "System Development (SYS)"
