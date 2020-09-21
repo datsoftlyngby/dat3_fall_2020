@@ -31,6 +31,7 @@ The course is divided up into five Periods:
 | Lars Mortensen           | lam@cphbusiness.dk  | [https://cphbusiness.zoom.us/my/larsmortensen](https://cphbusiness.zoom.us/my/larsmortensen)   | [snippet](https://docs.google.com/document/d/1s-Uczqyj0AQG1Kc2pD43M-xr9en3DvPUxRv0rX27u0I/edit?usp=sharing) |
 | Jon Bertelsen            | jobe@cphbusiness.dk | [https://cphbusiness.zoom.us/my/jonbertelsen](https://cphbusiness.zoom.us/my/jonbertelsen)     | -                                                                                                           |
 | Nikolaj Brandt Hemmeshøj | nbh@cphbusiness.dk  | [https://cphbusiness.zoom.us/my/nikolajh](https://cphbusiness.zoom.us/my/nikolajh)             | -                                                                                                           |
+| Jörg Oertel | jorg@cphbusiness.dk  | [https://cphbusiness.zoom.us/j/7415566570?pwd=VVQyT2xhdExmaEk0Z0RqY2ovTU9Bdz09](https://cphbusiness.zoom.us/j/7415566570?pwd=VVQyT2xhdExmaEk0Z0RqY2ovTU9Bdz09)             | -                                                                                                           |
 
 ## Exam
 
