@@ -18,15 +18,12 @@ isSP: true
 
 <!--PeriodExercises Flow-2/week1 PeriodExercises-->
 
-## Part-2 Complete this exercise
-
- <!--BEGIN exercises_exam-prep ##-->
+## Part-2 Complete this exercise (optional)
+Denne opgave er virkelig god til at få repeteret JPA og JPQL med relationer. Så lav den hvis du har tid. Den er ikke obligatorisk.
 
 - [ORM + JPQL (exam-prep)](https://docs.google.com/document/d/1Vm1sa-aGGsMZQB4EYIk0Zgkegg6kkyhikCgYQCP6GoQ/edit?usp=sharing)
 
- <!--END exercises_exam-prep ##-->
-
-### Part-3 Ekstraopgaver.
+### Part-3 Ekstra-ekstra opgaver
 
 Opgaverne herunder er kun for jer, der ikke kan få nok, og er IKKE noget vi forventer I kommer igennem.
 
