@@ -7,6 +7,8 @@ isSP: true
 
 <!-- REMOVE ME: Setting isSP ensures this pages gets added to the list of Studypoint exercises -->
 
+[Du kan aflevere ugens besvarelse her](https://docs.google.com/forms/d/e/1FAIpQLSfGKL_uZm8eHkT8Jqa2X4S6y_hu-bL23GQsgO7uJUJDPoSe5A/viewform)
+
 ### _Supplementary resources for this week (read/watch if you like)_
 
 <!--BEGIN guides ##-->
