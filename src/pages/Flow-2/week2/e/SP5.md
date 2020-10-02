@@ -5,7 +5,7 @@ decorator: "SP5 (#date#)"
 isSP: true
 ---
 
-## Part-1 Complete all exercises (according to your colour level) from this week
+## Part-1 C-omplete all exercises (according to your colour level) from this week
 
 <!--PeriodExercises Flow-2/week2 PeriodExercises-->
 
