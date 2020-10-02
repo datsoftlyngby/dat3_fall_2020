@@ -18,3 +18,6 @@ isSP: true
 [Frontend exercise (last part of exercise from last week (skip the red part)](https://docs.google.com/document/d/19km0ZoaAX0k_stnYOWfAZPd4wXbTGMWhme1xZopj-PA/edit?usp=sharing)
 
  <!--END exercises_exam-prep ##-->
+
+ ## Handin-link
+ [Afleveringslink](https://forms.gle/eKgPynZDxUoVm9Rv5)
