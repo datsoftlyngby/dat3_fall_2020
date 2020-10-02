@@ -20,3 +20,9 @@ Complete exercises given Tuesday, Wednesday, Thuersday
 [Frontend exercise (last part of exercise from last week (skip the red part)](https://docs.google.com/document/d/1a92c5JoCwzPHnEo03OBHjkFJtb4JwsFULsG61agWTpo/edit?usp=sharing)
 
  <!--END exercises_exam-prep ##-->
+
+## Handin link
+
+Har i deployet Person løsningen, så læg link i README-filen
+
+[add link to github repo here](https://forms.gle/Q35oaEjSZLV4AGmCA)
