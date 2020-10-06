@@ -49,6 +49,6 @@
     "typography-theme-ocean-beach": "^0.16.18"
   },
   "devDependencies": {
-    "gatsby-cli": "^2.12.76"
+    "gatsby-cli": "^2.12.103"
   }
 }
