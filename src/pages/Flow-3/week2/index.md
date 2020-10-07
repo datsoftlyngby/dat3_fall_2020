@@ -16,3 +16,7 @@ Securiting a Restful web service with JSON Web Tokens is a necessary skill in or
 JavaScript, and React this semester, will provide students with the background to join modern front-end teams, using JS and supplementing JS frameworks like React
 
 Knowing about Threads and Concurrency is a necessary requirement, in a world where computers increasingly comes with multiple CPUs and where applications need to use multiple web services that would otherwise slow down response time.
+
+## Learning objectives
+1. Forklare om behovet for routing i en SPA samt vise eksempler på brug af react router og subroutes med parametre.
+2. Kunne implementere og forklare en JWT-baseret sikkerhedsløsning baseret på et udleveret startprojekt (Klient og Server-side)
