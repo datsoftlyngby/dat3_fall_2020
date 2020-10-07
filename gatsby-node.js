@@ -89,6 +89,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
     createNodeField({ node, name: "parentFolder", value: parentFolder });
 
     if (parts.length > 4 && node.fileAbsolutePath.includes("/index.md")) {
+      console.log("--->", node.fileAbsolutePath)
       throw new Error("Periods can only have sub-periods one level down");
     }
     if (node.frontmatter.headertext) {
