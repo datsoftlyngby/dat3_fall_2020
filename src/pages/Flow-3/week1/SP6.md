@@ -1,6 +1,6 @@
 ---
 title: "SP6 React"
-date : 'SP6 (30-10-2020)'
+date : '30-10-2020'
 decorator: "SP6 (#date#)"
 isSP: true
 ---
