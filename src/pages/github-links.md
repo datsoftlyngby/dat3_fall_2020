@@ -12,7 +12,7 @@ headertext: "Links to github repositories, and matching documentation, used this
 
 ## Start Code for period-1+2 (+3) projects that requires JPA, REST, Test, CI and CD
 
-- [:cd: Start Code](https://github.com/dat3startcode/rest-jpa-devops-startcode)
+- [:cd: Start Code](https://github.com/dat3startcode/dat3-startcode)
 - In period-3 you will need to clone a specific branch (not ready yet) with necessary support to secure REST-endpoints
 
 ## Start code for SPA for Flow 2
