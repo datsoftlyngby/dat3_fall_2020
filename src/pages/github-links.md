@@ -15,8 +15,7 @@ headertext: "Links to github repositories, and matching documentation, used this
 - [:cd: Start Code](https://github.com/dat3startcode/dat3-startcode)
 - In period-3 you will need to clone a specific branch (not ready yet) with necessary support to secure REST-endpoints
 
-## Start code for SPA for Flow 2
+## Start code for SPA for ONLY Flow 2
 
-<!--[Start Code SPA (TBD)](https://github.com/Cphdat3sem2018f/code_simple_SPA)-->
-
-[Start Code SPA (TBD)](#)
+- [Start Code SPA (plain JavaScript) Used in the D-class](https://github.com/dat3startcode/SimpleWebpackBabelForPlainJS)
+- [Start Code SPA (plain JavaScript) Used in the E-class](https://github.com/dat3startcode/webpack_start_code)
