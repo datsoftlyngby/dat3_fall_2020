@@ -17,5 +17,5 @@ headertext: "Links to github repositories, and matching documentation, used this
 
 ## Start code for SPA for ONLY Flow 2
 
-- [Start Code SPA (plain JavaScript) Used in the D-class](https://github.com/dat3startcode/SimpleWebpackBabelForPlainJS)
-- [Start Code SPA (plain JavaScript) Used in the E-class](https://github.com/dat3startcode/webpack_start_code)
+- [:cd: Start Code SPA (plain JavaScript) Used in the D-class](https://github.com/dat3startcode/SimpleWebpackBabelForPlainJS)
+- [:cd: Start Code SPA (plain JavaScript) Used in the E-class](https://github.com/dat3startcode/webpack_start_code)
