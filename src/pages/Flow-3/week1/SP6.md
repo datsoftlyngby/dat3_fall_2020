@@ -9,7 +9,7 @@ isSP: true
 
 
 
-### Hand-in before Saturday at 16:00
+### Hand-in before Sunday at 16:00
 
 I denne uge forsøger vi at lave en alternativ form for SP-aflevering, som lægger fokus på refleksion og læring.
  
